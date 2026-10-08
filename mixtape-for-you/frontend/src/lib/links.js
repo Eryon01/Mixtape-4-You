@@ -1,6 +1,6 @@
 const BACKEND_URL =
   process.env.REACT_APP_BACKEND_URL ||
-  "http://localhost:8000";
+  "https://mixtape-4-you.vercel.app";
 
 export const API = `${BACKEND_URL}/api`;
 

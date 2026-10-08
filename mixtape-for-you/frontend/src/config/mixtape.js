@@ -1,1 +1,1 @@
-export const MIXTAPE_CONFIG={recipient:"You",sender:"Me",title:"MIXTAPE FOR YOU",landingLine:"I made a tape just for you. press play.",revealLine:"made by hand, for you only",sideLabel:"SIDE A",maxSongs:4,maxNote:280};
+export const MIXTAPE_CONFIG={recipient:"You",sender:"Me",title:"MIXTAPE FOR YOU",landingLine:" A tape just for you. press play.",revealLine:"made by hand, for you only",sideLabel:"SIDE A",maxSongs:4,maxNote:1000};

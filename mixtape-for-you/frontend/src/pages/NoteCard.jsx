@@ -100,26 +100,26 @@ export default function NoteCard() {
               }
               placeholder="i keep thinking about…"
               data-testid="note-textarea"
-              rows={8}
+              rows={11}
               className="
-                block
-                min-h-[280px]
-                w-full
-                resize-none
-                overflow-hidden
-                bg-transparent
-                px-0
-                pb-1
-                pt-1
-                font-hand
-                text-[25px]
-                leading-[32px]
-                text-[#303030]
-                outline-none
-                placeholder:text-[#9aa6b8]/75
-                sm:min-h-[310px]
-                sm:text-[27px]
-                sm:leading-[34px]
+               block
+               min-h-[380px]
+               w-full
+               resize-none
+               overflow-hidden
+               bg-transparent
+               px-0
+               pb-1
+               pt-1
+               font-hand
+               text-[25px]
+               leading-[32px]
+               text-[#303030]
+               outline-none
+               placeholder:text-[#9aa6b8]/75
+               sm:min-h-[420px]
+               sm:text-[27px]
+              sm:leading-[34px]
               "
               style={{
                 backgroundImage:
