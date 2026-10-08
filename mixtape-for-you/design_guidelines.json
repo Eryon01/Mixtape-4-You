@@ -1,0 +1,5 @@
+{
+  "theme":"light",
+  "typography":{"fonts":[{"name":"Press Start 2P","usage":"Retro pixel logo, primary headings","weight":"400"},{"name":"Caveat","usage":"Handwritten note card, personal messages, annotations","weight":"400, 700"},{"name":"Inter","usage":"Body text, UI controls, labels","weight":"400, 500, 600"}]},
+  "colors":{"background":{"primary":"#dceafc","secondary":"#f4f1ea","table_wood":"#d4b895"},"accents":{"pink":"#ffb6c1","yellow":"#fdfd96","mint":"#98ff98"},"text":{"primary":"#1c1c1c","secondary":"#4a4a4a","handwritten":"#2c2c2c"}}
+}
