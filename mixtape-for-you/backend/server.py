@@ -282,7 +282,7 @@ app.add_middleware(
 
     allow_origins=[
         "http://localhost:3000",
-        "https://mixtape-4-you.vercel.app/",
+        "https://mixtape-4-you-frontend.vercel.app",
     ],
 
     allow_credentials=True,
