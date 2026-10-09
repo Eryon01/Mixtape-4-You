@@ -89,6 +89,9 @@ class Song(BaseModel):
     title: str = "Untitled track"
     author: str = ""
     thumb: Optional[str] = None
+    photo: Optional[str] = None
+    image: Optional[str] = None
+    thumbnail: Optional[str] = None
 
 
 class MixtapePayload(BaseModel):
