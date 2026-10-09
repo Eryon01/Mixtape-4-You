@@ -740,7 +740,7 @@ export default function Reveal() {
             </h1>
 
             <p className="mt-4 font-hand text-[17px] text-[#607884]">
-              Happy birthday Doc. Sahab by{" "}
+              Happy birthday Doc. Sahab! - by{" "}
               {sender}
             </p>
           </div>

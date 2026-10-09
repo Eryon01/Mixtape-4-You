@@ -18,7 +18,7 @@ export default function ColorPicker() {
       step={1}
       eyebrow="STEP 01 / 06"
       title="PICK THE SHELL"
-      hint="which one feels like us?"
+      hint="which one feels like you?"
       back="/"
       next="/stickers"
     >

@@ -17,7 +17,7 @@ export default function Landing() {
         <header className="flex flex-col items-center shrink-0">
 
           <p className="font-hand text-xl text-[#66738a] sm:text-2xl lg:text-[26px]">
-            a tape for
+            a tape for Ish
           </p>
 
           <h1 className="mt-1 font-pixel text-[26px] leading-[1.2] text-[#243247] sm:text-[36px] lg:text-[44px]">

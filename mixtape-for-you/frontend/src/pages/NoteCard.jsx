@@ -15,7 +15,7 @@ export default function NoteCard() {
       step={4}
       eyebrow="STEP 04 / 06"
       title="WRITE THE NOTE"
-      hint="the bit they'll re-read at 2am"
+      hint="A bit of what I want to say lol !"
       back="/songs"
       next="/reveal"
       nextDisabled={!state.note.trim()}
@@ -169,7 +169,7 @@ export default function NoteCard() {
               </span>
 
               <span className="mt-1 font-hand text-xs text-[#b7bdc8]">
-                words from the heart
+                
               </span>
             </div>
           </div>
@@ -189,7 +189,7 @@ export default function NoteCard() {
             text-[#7a869a]/70
           "
         >
-          written just for you ♡
+          written for you ♡
         </div>
       </div>
 
