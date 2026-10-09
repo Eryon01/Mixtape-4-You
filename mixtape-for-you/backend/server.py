@@ -92,7 +92,7 @@ class Song(BaseModel):
     photo: Optional[str] = None
     image: Optional[str] = None
     thumbnail: Optional[str] = None
-
+    photoCaption: str = ""
 
 class MixtapePayload(BaseModel):
     color: str = "green"
